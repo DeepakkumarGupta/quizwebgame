@@ -1,0 +1,82 @@
+[
+  {
+    "question": "The testing in which code is checked",
+    "choice1": "Black box testing",
+    "choice2": "White box testing",
+    "choice3": "Red box testing",
+    "choice4": "Green box testing",
+    "answer": 2
+  },
+  {
+    "question": "Testing done without planning and Documentation is called",
+    "choice1": "Unit testing",
+    "choice2": "Regression testing",
+    "choice3": "Adhoc testing",
+    "choice4": "None of the mentioned",
+    "answer": 3
+  },
+  {
+    "question": "Acceptance testing is also known as",
+    "choice1": " Grey box testing",
+    "choice2": "White box testing",
+    "choice3": "Alpha Testing",
+    "choice4": "Beta testing",
+    "answer": 4
+  },
+  {
+    "question": "Beta testing is done at",
+    "choice1": "User’s end",
+    "choice2": "Developer’s end",
+    "choice3": "User’s & Developer’s end",
+    "choice4": "None of the mentioned",
+    "answer": 1
+  },
+  {
+    "question": "SPICE stands for",
+    "choice1": " Software Process Improvement and Compatibility Determination",
+    "choice2": "Software Process Improvement and Control Determination",
+    "choice3": "Software Process Improvement and Capability Determination",
+    "choice4": "None of the mentioned",
+    "answer": 3
+  },
+  {
+    "question": "Unit testing is done by",
+    "choice1": "Users",
+    "choice2": "Developers",
+    "choice3": "Customers",
+    "choice4": "None of the mentioned",
+    "answer": 2
+  },
+  {
+    "question": "Behavioral testing is",
+    "choice1": "White box testing",
+    "choice2": "Black box testing",
+    "choice3": "Grey box testing",
+    "choice4": "None of the mentioned",
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is black box testing",
+    "choice1": "Basic path testing",
+    "choice2": "Boundary value analysis",
+    "choice3": "Code path analysis",
+    "choice4": "None of the mentioned",
+    "answer": 2
+  },
+  {
+    "question": "Acceptance testing is also known as",
+    "choice1": " Grey box testing",
+    "choice2": "White box testing",
+    "choice3": "Alpha Testing",
+    "choice4": "Beta testing",
+    "answer": 4
+  },
+  {
+    "question": "Which of the following is not used in measuring the size of the software",
+    "choice1": "KLOC",
+    "choice2": "Function Points",
+    "choice3": "Size of module",
+    "choice4": "None of the mentionedg",
+    "answer": 3
+  }
+]
